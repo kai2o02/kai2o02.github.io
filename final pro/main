@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="pic/Kirby_Icon.ico" type="image/x-icon" >
+<title>星のカービィ</title>
+<style>
+  body {
+  background-image: url('pic/wallpaper.jpg') ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  font-family:Arial, Helvetica, sans-serif;
+}
+h1,h2,p{
+  color:#fcf94c;
+  text-align:center;
+  text-shadow: 2px 2px 2px black;
+}
+
+
+</style>
+</head>
+<body>
+  <br>
+<header><h1>星のカービィ介紹</h1></header>
+<article><strong><h2>歡迎來到這個網頁，這是一個由喜愛星之卡比的粉絲所創建。點擊下方連結來了解星之卡比吧！</h2></strong></article>
+
+<div style="display: flex; justify-content: center">
+
+  <a class="nav-link" href="else/instuction.html">
+    <div style="margin: auto;">
+    <img src="pic/ins.png"style="float: left;width: 375px;
+    height: 400px;">
+    </div>
+  </a>
+  <a class="nav-link" href="else/background.html">
+    <div style="margin: auto;">
+    <img src="pic/story.png"style="float: left ;;width: 375px;
+    height: 400px;">
+    </div>
+  </a>
+  <a class="nav-link" href="else/charater.html">
+    <div style="margin: auto;">
+    <img src="pic/charater.png"style="float: left;width: 375px;
+    height: 400px;">
+    </div>
+  </a>
+</div>
+  <br><br>
+  
+    <div style="position: relative;left: 50%; bottom: 0; margin-left: -50px;">
+      <div style="display: flex; align-items: flex-end; justify-content: center; position: absolute; bottom: 0;">
+        <p>code by KN </p>
+      </div>
+    </div>
+
+</body>
+</html>
+
+
+
+
